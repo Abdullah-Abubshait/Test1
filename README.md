@@ -1,0 +1,1 @@
+The goal of this project is to build a machine learning model to predict the future closing price of NVIDIA stock based on historical market data (Open, High, Low, and Volume). By analyzing past trends, the model aims to forecast the value of the 'Close' variable.
